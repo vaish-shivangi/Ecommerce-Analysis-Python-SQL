@@ -83,7 +83,7 @@ ecommerce-analysis-project/
 
 ## 📈 Key Insights
 
-- **SP** (São Paulo) dominates in customer volume and sales.
+- **SP** dominates in customer volume and sales.
 - A few sellers and customers contribute to a large portion of total revenue.
 - Orders peaked between Jan–July 2018, with significant drop later.
 - Installment payments are preferred by many customers.
