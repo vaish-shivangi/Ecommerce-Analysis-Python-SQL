@@ -57,35 +57,28 @@ ecommerce-analysis-project/
 
 ## 📊 Visualizations
 
-## 📊 Top Customers by Year
-
-### 🏆 Top Customers  
+**🏆 Top Customers**
 ![Top Customers](images/top_customers_by_year.png)  
 Shows top 3 high-spending customers in each year.
 
 ---
 
-## 💰 Seller Revenue Ranking
-
-### 💸 Revenue by Seller  
+**💰 Seller Revenue Ranking**
 ![Revenue by Seller](images/revenue_by_seller.png)  
 Ranks sellers based on total revenue generated.
 
 ---
 
-## 🌍 Customer Distribution by State
-
-### 📍 Customers by State  
+**🌍 Customer Distribution by State**
 ![Customers by State](images/customers_by_state.png)  
 Breakdown of customer count by state — SP leads significantly.
 
 ---
 
-## 📅 Orders by Month in 2018
-
-### 📊 Orders by Month 2018  
+**📅 Orders by Month in 2018**
 ![Orders by Month 2018](images/orders_by_month_2018.png)  
 Reveals seasonal pattern and order drop in Sept–Oct 2018.
+
 
 
 ## 📈 Key Insights
