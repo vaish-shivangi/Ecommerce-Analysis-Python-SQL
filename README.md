@@ -17,19 +17,19 @@ This project presents a comprehensive analysis of an e-commerce dataset using **
 - **Jupyter Notebook** – Interactive EDA
 
 ## 📂 Folder Structure
-```
+```bash 
 ecommerce-analysis-project/
 │
-├── python_sql_ecommerce.ipynb # Python EDA and SQL scripts notebook
-├── images/ # Visualizations used in README
+├── python_sql_ecommerce.ipynb     # Python EDA and SQL scripts notebook
+├── images/                        # Visualizations used in README
 │ ├── top_customers_by_year.png
 │ ├── revenue_by_seller.png
 │ ├── customers_by_state.png
 │ └── orders_by_month_2018.png
-├── ecom_csv_to_sql.py # Script to load CSV to SQL
-├── dataset_link.txt # Dataset source
-├── Questions.txt # Business Queries to Solve
-└── README.md # Project documentation
+├── ecom_csv_to_sql.py              # Script to load CSV to SQL
+├── dataset_link.txt                # Dataset source
+├── Questions.txt                   # Business Queries to Solve
+└── README.md                       # Project documentation
 ```
 
 ## 🔍 Business Problems Solved
@@ -59,24 +59,28 @@ ecommerce-analysis-project/
 
 ### 🏆 Top Customers
 <img src="images/top_customers_by_year.png" width="400"/>
-*Shows top 3 high-spending customers in each year.*
+
+_Shows top 3 high-spending customers in each year_
 
 
 
 ### 💰 Seller Revenue Ranking
 <img src="images/revenue_by_seller.png" width="400"/>
-*Ranks sellers based on total revenue generated.*
+
+*Ranks sellers based on total revenue generated*
 
 
 
 ### 🌍 Customer Distribution by State
 <img src="images/customers_by_state.png" width="400"/>
-*Breakdown of customer count by state — SP leads significantly.*
+
+*Breakdown of customer count by state — SP leads significantly*
 
 
 
 ### 📅 Orders by Month in 2018
 <img src="images/orders_by_month_2018.png" width="400"/>
+
 *Reveals seasonal pattern and order drop in Sept–Oct 2018.*
 
 ---
@@ -94,6 +98,8 @@ ecommerce-analysis-project/
 - Add customer churn prediction model.
 - Automate monthly sales and revenue reports.
 
-## 👤 Author
-Shivangi 
+## 🙋‍♀️ Author
 
+**Shivangi**  
+_Data Science & Analytics Enthusiast_  
+[GitHub Profile](https://github.com/vaish-shivangi)
