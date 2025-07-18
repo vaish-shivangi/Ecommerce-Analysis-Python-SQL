@@ -17,6 +17,7 @@ This project presents a comprehensive analysis of an e-commerce dataset using **
 - **Jupyter Notebook** – Interactive EDA
 
 ## 📂 Folder Structure
+```
 ecommerce-analysis-project/
 │
 ├── python_sql_ecommerce.ipynb # Python EDA and SQL scripts notebook
@@ -29,6 +30,7 @@ ecommerce-analysis-project/
 ├── dataset_link.txt # Dataset source
 ├── Questions.txt # Business Queries to Solve
 └── README.md # Project documentation
+```
 
 ## 🔍 Business Problems Solved
 
@@ -86,11 +88,11 @@ ecommerce-analysis-project/
 - Installment payments are preferred by many customers.
 - Repeat customer activity can be improved with loyalty strategies.
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 - Build interactive dashboards in Power BI/Tableau.
 - Add customer churn prediction model.
 - Automate monthly sales and revenue reports.
 
-👤 Author
-Shivangi Vaish
+## 👤 Author
+Shivangi 
 
