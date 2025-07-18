@@ -54,32 +54,32 @@ ecommerce-analysis-project/
 3. Year-over-year growth rate of sales.
 4. Customer retention within 6 months.
 5. Top 3 customers by yearly spend.
-
+--
 ## 📊 Visualizations
 
-**🏆 Top Customers**
-![Top Customers](images/top_customers_by_year.png)  
-Shows top 3 high-spending customers in each year.
+### 🏆 Top Customers
+<img src="images/top_customers_by_year.png" width="400"/>
+**Shows top 3 high-spending customers in each year.**
+
+
+
+### 💰 Seller Revenue Ranking
+<img src="images/revenue_by_seller.png" width="400"/>
+**Ranks sellers based on total revenue generated.**
+
+
+
+### 🌍 Customer Distribution by State
+<img src="images/customers_by_state.png" width="400"/>
+**Breakdown of customer count by state — SP leads significantly.**
+
+
+
+### 📅 Orders by Month in 2018
+<img src="images/orders_by_month_2018.png" width="400"/>
+**Reveals seasonal pattern and order drop in Sept–Oct 2018.**
 
 ---
-
-**💰 Seller Revenue Ranking**
-![Revenue by Seller](images/revenue_by_seller.png)  
-Ranks sellers based on total revenue generated.
-
----
-
-**🌍 Customer Distribution by State**
-![Customers by State](images/customers_by_state.png)  
-Breakdown of customer count by state — SP leads significantly.
-
----
-
-**📅 Orders by Month in 2018**
-![Orders by Month 2018](images/orders_by_month_2018.png)  
-Reveals seasonal pattern and order drop in Sept–Oct 2018.
-
-
 
 ## 📈 Key Insights
 
